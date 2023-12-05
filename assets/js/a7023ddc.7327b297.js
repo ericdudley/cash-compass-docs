@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcash_compass_docs=self.webpackChunkcash_compass_docs||[]).push([[713],{3457:s=>{s.exports=JSON.parse('[{"label":"welcome","permalink":"/blog/tags/welcome","count":1}]')}}]);
