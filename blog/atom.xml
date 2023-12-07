@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.cashcompass.co/blog</id>
     <title>Cash Compass Docs Blog</title>
-    <updated>2023-12-05T07:33:35.000Z</updated>
+    <updated>2023-12-07T06:45:25.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.cashcompass.co/blog"/>
     <subtitle>Cash Compass Docs Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://docs.cashcompass.co/blog/welcome</id>
         <link href="https://docs.cashcompass.co/blog/welcome"/>
-        <updated>2023-12-05T07:33:35.000Z</updated>
+        <updated>2023-12-07T06:45:25.000Z</updated>
         <summary type="html"><![CDATA[Welcome to Cash Compass! We're excited to bring you a great way to track your finances and help you reach your financial goals.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to Cash Compass! We're excited to bring you a great way to track your finances and help you reach your financial goals.</p>]]></content>
         <author>
