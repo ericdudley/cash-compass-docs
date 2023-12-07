@@ -96,12 +96,16 @@ const config = {
             title: "Community",
             items: [
               {
+                label: "Reddit",
+                href: "https://reddit.com/r/cashcompass",
+              },
+              {
                 label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://discord.gg/Au332G8CJW",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/CashCompass",
               },
             ],
           },
