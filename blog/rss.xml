@@ -4,7 +4,7 @@
         <title>Cash Compass Docs Blog</title>
         <link>https://docs.cashcompass.co/blog</link>
         <description>Cash Compass Docs Blog</description>
-        <lastBuildDate>Thu, 07 Dec 2023 06:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 18:59:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://docs.cashcompass.co/blog/welcome</link>
             <guid>https://docs.cashcompass.co/blog/welcome</guid>
-            <pubDate>Thu, 07 Dec 2023 06:45:25 GMT</pubDate>
+            <pubDate>Thu, 21 Dec 2023 18:59:21 GMT</pubDate>
             <description><![CDATA[Welcome to Cash Compass! We're excited to bring you a great way to track your finances and help you reach your financial goals.]]></description>
             <content:encoded><![CDATA[<p>Welcome to Cash Compass! We're excited to bring you a great way to track your finances and help you reach your financial goals.</p>]]></content:encoded>
             <category>welcome</category>
