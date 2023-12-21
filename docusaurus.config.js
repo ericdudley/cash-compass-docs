@@ -110,6 +110,27 @@ const config = {
             ],
           },
           {
+            title: "Legal",
+            items: [
+              {
+                label: "Privacy Policy",
+                to: "/legal/privacy",
+              },
+              {
+                label: "Terms of Service",
+                to: "/legal/terms",
+              },
+              {
+                label: "Cookie Policy",
+                to: "/legal/cookie",
+              },
+              {
+                label: "Company Information",
+                to: "/legal/company-information",
+              },
+            ],
+          },
+          {
             title: "More",
             items: [
               {
