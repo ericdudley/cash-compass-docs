@@ -90,11 +90,15 @@ const config = {
                 label: "Getting Started",
                 to: "/docs/getting-started",
               },
+              {
+                label: "Roadmap",
+                to: "https://github.com/users/ericdudley/projects/1/views/1",
+              },
             ],
           },
           {
             title: "Community",
-            items: [
+              items: [
               {
                 label: "Reddit",
                 href: "https://reddit.com/r/cashcompass",
@@ -106,6 +110,27 @@ const config = {
               {
                 label: "Twitter",
                 href: "https://twitter.com/CashCompass",
+              },
+            ],
+          },
+          {
+            title: "Legal",
+            items: [
+              {
+                label: "Privacy Policy",
+                to: "/legal/privacy",
+              },
+              {
+                label: "Terms of Service",
+                to: "/legal/terms",
+              },
+              {
+                label: "Cookie Policy",
+                to: "/legal/cookie",
+              },
+              {
+                label: "Company Information",
+                to: "/legal/company-information",
               },
             ],
           },
