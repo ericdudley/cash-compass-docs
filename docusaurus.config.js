@@ -90,11 +90,15 @@ const config = {
                 label: "Getting Started",
                 to: "/docs/getting-started",
               },
+              {
+                label: "Roadmap",
+                to: "https://github.com/users/ericdudley/projects/1/views/1",
+              },
             ],
           },
           {
             title: "Community",
-            items: [
+              items: [
               {
                 label: "Reddit",
                 href: "https://reddit.com/r/cashcompass",
