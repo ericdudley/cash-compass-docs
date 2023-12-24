@@ -106,7 +106,7 @@ const config = {
           },
           {
             title: "Community",
-            items: [
+              items: [
               {
                 label: "Reddit",
                 href: "https://reddit.com/r/cashcompass",
