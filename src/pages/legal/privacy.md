@@ -28,6 +28,8 @@ Welcome to Cash Compass ([cashcompass.co](https://cashcompass.co)). We are commi
 - **Google Firebase**: As our authentication provider, Google Firebase's privacy practices also apply to some aspects of our service.
 - **Google Analytics**: Google Analytics is used for collecting anonymized usage data. For more information on how Google uses data, please visit their privacy policy.
 - **AWS Simple Email Service**: AWS SES is used for sending automated emails (Account creation, subscription status changes, AI summaries, etc.). For more information, please visit their privacy policy.
+- **Honeybadger**: Honeybadger is used for error reporting. For more information, please visit their privacy policy.
+- **Stripe**: Stripe is used for payment processing. For more information, please visit their privacy policy.
 
 ## Your Data Protection Rights
 
