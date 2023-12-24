@@ -37,6 +37,10 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        gtag: {
+          trackingID: "G-G17KP0CG2B",
+          anonymizeIP: true,
+        },
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
         },
@@ -92,13 +96,17 @@ const config = {
               },
               {
                 label: "Roadmap",
-                to: "https://github.com/users/ericdudley/projects/1/views/1",
+                to: "https://github.com/users/ericdudley/projects/1/views/1?pane=info",
+              },
+              {
+                label: "Status",
+                to: "https://status.cashcompass.co",
               },
             ],
           },
           {
             title: "Community",
-              items: [
+            items: [
               {
                 label: "Reddit",
                 href: "https://reddit.com/r/cashcompass",
