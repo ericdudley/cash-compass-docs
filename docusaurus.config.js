@@ -43,6 +43,7 @@ const config = {
         },
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          showLastUpdateTime: true
         },
         blog: {
           showReadingTime: true,
@@ -77,6 +78,12 @@ const config = {
             position: "right",
             label: "Getting Started",
           },
+          {
+            type: "docSidebar",
+            sidebarId: "releasesSidebar",
+            position: "right",
+            label: "Releases",
+          },
           { to: "/blog", label: "Blog", position: "right" },
         ],
       },
@@ -106,7 +113,7 @@ const config = {
           },
           {
             title: "Community",
-              items: [
+            items: [
               {
                 label: "Reddit",
                 href: "https://reddit.com/r/cashcompass",
