@@ -99,7 +99,7 @@ const config = {
               },
               {
                 label: "Documentation",
-                to: "/docs/app/getting-started",
+                to: "/docs/app/welcome",
               },
               {
                 label: "Roadmap",
