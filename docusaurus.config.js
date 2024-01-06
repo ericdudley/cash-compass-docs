@@ -74,9 +74,9 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "appDocsSidebar",
             position: "right",
-            label: "Getting Started",
+            label: "Documentation",
           },
           {
             type: "docSidebar",
@@ -98,8 +98,8 @@ const config = {
                 to: "/blog",
               },
               {
-                label: "Getting Started",
-                to: "/docs/getting-started",
+                label: "Documentation",
+                to: "/docs/app/getting-started",
               },
               {
                 label: "Roadmap",
