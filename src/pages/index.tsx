@@ -14,7 +14,7 @@ const HOMEPAGE_CARDS: {
   link: string;
 }[] = [
   {
-    title: "Welcome",
+    title: "Documentation",
     description: (
       <>Learn about the key features of Cash Compass and how to use them.</>
     ),

@@ -93,12 +93,16 @@ const config = {
             title: "Pages",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
                 label: "Documentation",
                 to: "/docs/app/welcome",
+              },
+              {
+                label: "Releases",
+                to: "/docs/releases",
+              },
+              {
+                label: "Blog",
+                to: "/blog",
               },
               {
                 label: "Roadmap",
