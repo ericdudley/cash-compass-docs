@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcash_compass_docs=self.webpackChunkcash_compass_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome"},{"title":"v0.1.0 and our Release Strategy","permalink":"/blog/v0.1.0-and-releases"}]}')}}]);
