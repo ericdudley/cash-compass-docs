@@ -7,7 +7,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Cash Compass Docs",
-  tagline: "Documentation for Cash Compass, your personal finance tracker",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -74,9 +73,9 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "appDocsSidebar",
             position: "right",
-            label: "Getting Started",
+            label: "Documentation",
           },
           {
             type: "docSidebar",
@@ -94,12 +93,16 @@ const config = {
             title: "Pages",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Documentation",
+                to: "/docs/app/welcome",
               },
               {
-                label: "Getting Started",
-                to: "/docs/getting-started",
+                label: "Releases",
+                to: "/docs/releases",
+              },
+              {
+                label: "Blog",
+                to: "/blog",
               },
               {
                 label: "Roadmap",
