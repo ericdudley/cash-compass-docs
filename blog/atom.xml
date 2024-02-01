@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.cashcompass.co/blog</id>
     <title>Cash Compass Docs Blog</title>
-    <updated>2024-01-07T20:22:10.000Z</updated>
+    <updated>2024-02-01T02:53:38.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.cashcompass.co/blog"/>
     <subtitle>Cash Compass Docs Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://docs.cashcompass.co/blog/welcome</id>
         <link href="https://docs.cashcompass.co/blog/welcome"/>
-        <updated>2024-01-07T20:22:10.000Z</updated>
+        <updated>2024-02-01T02:53:38.000Z</updated>
         <summary type="html"><![CDATA[Welcome to Cash Compass! We're excited to bring you a great way to track your finances and help you reach your financial goals.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to Cash Compass! We're excited to bring you a great way to track your finances and help you reach your financial goals.</p>]]></content>
         <author>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[v0.1.0 and our Release Strategy]]></title>
         <id>https://docs.cashcompass.co/blog/v0.1.0-and-releases</id>
         <link href="https://docs.cashcompass.co/blog/v0.1.0-and-releases"/>
-        <updated>2024-01-07T20:22:10.000Z</updated>
+        <updated>2024-02-01T02:53:38.000Z</updated>
         <summary type="html"><![CDATA[We've released our first beta version! Check out our v0.1.0 release notes.]]></summary>
         <content type="html"><![CDATA[<p>We've released our first beta version! Check out our <a href="/docs/releases/v0.1.0">v0.1.0 release notes</a>.</p><h1>Release Strategy</h1><p>Moving forward, we will be releasing Cash Compass on the first of every month. Each release will be composed of:</p><ol><li>Enhancements - New features or improvements to existing features, the fun stuff!</li><li>Bug fixes - Fixes for known issues, for high-impact issues we will release fixes between releases.</li><li>Chores - Internal refactors or other changes that have no direct impact on our users.</li></ol><p>In general, we will try to plan features at least 2 releases in the future on our new <a href="https://github.com/users/ericdudley/projects/1/views/1?pane=info" target="_blank" rel="noopener noreferrer">Public Roadmap</a>. If you have any comment on existing roadmap items or have an idea for a new item, feel free to contribute to our <a href="https://github.com/ericdudley/cash-compass-docs/issues" target="_blank" rel="noopener noreferrer">GitHub Issues</a>.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="roadmap---github-issues-process">Roadmap &lt;-&gt; GitHub issues process<a href="#roadmap---github-issues-process" class="hash-link" aria-label="Direct link to Roadmap <-> GitHub issues process" title="Direct link to Roadmap <-> GitHub issues process">​</a></h2><p>Our development process integrates user feedback directly into our roadmap. Here's how it works:</p><ol><li><p><strong>Idea Submission</strong>: Users submit ideas or feature requests as issues in our <a href="https://github.com/ericdudley/cash-compass-docs/issues" target="_blank" rel="noopener noreferrer">GitHub repository</a>.</p></li><li><p><strong>Community and Team Review</strong>: These issues are open for community feedback. Our team regularly reviews these ideas and assesses their fit with our product goals.</p></li><li><p><strong>Roadmap Planning</strong>: Selected ideas are tagged and added to our <a href="https://github.com/users/ericdudley/projects/1/views/1?pane=info" target="_blank" rel="noopener noreferrer">Public Roadmap</a>, showing when they're planned for development.</p></li><li><p><strong>Development and Release</strong>: Once scheduled, we work on developing the feature for an upcoming release.</p></li></ol><p>This streamlined process ensures that your ideas are heard and can become a part of Cash Compass's evolution.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="beta-releases">Beta Releases<a href="#beta-releases" class="hash-link" aria-label="Direct link to Beta Releases" title="Direct link to Beta Releases">​</a></h2><p>For now, we'll be iterating on beta releases <code>v0.*.*</code>. Once we feel like we're ready for a v1 release, we'll create the <code>v1.0.0</code> release. Until then, expect potentially large changes to roll through as we build out new product features and stabilize our existing features. During this phase, feedback is not just welcomed, it's needed! Please leave your feedback in our public <a href="https://github.com/ericdudley/cash-compass-docs/issues" target="_blank" rel="noopener noreferrer">GitHub Issues</a> or email us at <a href="mailto:feedback@cashcompass.co" target="_blank" rel="noopener noreferrer">feedback@cashcompass.co</a>.</p>]]></content>
         <author>
