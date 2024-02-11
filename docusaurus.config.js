@@ -101,6 +101,10 @@ const config = {
                 to: "/docs/releases",
               },
               {
+                label: "Changelog",
+                to: "/docs/changelog",
+              },
+              {
                 label: "Blog",
                 to: "/blog",
               },
