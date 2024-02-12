@@ -4,6 +4,14 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## v0.2.7
+
+### User Facing
+
+- Updated footer version text to be a link to this changelog page.
+
+### Internal
+
 ## v0.2.6
 
 ### User Facing
