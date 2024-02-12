@@ -12,6 +12,8 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 ### Internal
 
+- Tweaked CI pipeline to clean up unused steps and update versions.
+
 ## v0.2.6
 
 ### User Facing
