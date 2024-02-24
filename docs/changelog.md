@@ -32,6 +32,14 @@ Welcome to the Changelog, if you're looking for the latest features available in
 - Added script to ensure package.json version is always incremented on commits.
 - Refactored CI pipelines to be more efficient.
 
+## v0.2.4-hotfix.1
+
+### User Facing
+
+- Fixed a bug where google authentication was not working. 
+
+### Internal
+
 ## v0.2.4
 
 ### User Facing
