@@ -4,6 +4,22 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## v0.3.0
+
+### User Facing
+
+- v0.3.0 release
+
+### Internal
+
+## v0.2.10
+
+### User Facing
+
+- v0.3.0 release email
+
+### Internal
+
 ## v0.2.9
 
 ### User Facing
