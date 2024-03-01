@@ -4,6 +4,22 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## v0.2.9
+
+### User Facing
+
+### Internal
+
+- Code organization re-haul. More focused modules and better grouping of related code.
+
+## v0.2.8
+
+### User Facing
+
+### Internal
+
+- More packages updated to latest versions.
+
 ## v0.2.7
 
 ### User Facing
