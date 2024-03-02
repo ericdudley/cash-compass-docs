@@ -4,6 +4,30 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## v0.3.3
+
+### User Facing
+
+### Internal
+
+- Tweaking CI pipeline to use new GitHub Actions syntax.
+
+## v0.3.2
+
+### User Facing
+
+- Changing Category filter on transactions page now submits the form automatically.
+
+### Internal
+
+## v0.3.1
+
+### User Facing
+
+### Internal
+
+- Report deployment on success to Honeybadger.
+
 # Latest Release
 
 ## v0.3.0-hotfix.1
