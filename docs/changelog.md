@@ -4,6 +4,17 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+# Latest Release
+
+## v0.3.0-hotfix.1
+
+### User Facing
+
+
+### Internal
+
+- Fixed a bug where the app was deployed in development mode instead of production mode.
+
 ## v0.3.0
 
 ### User Facing
@@ -80,7 +91,7 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 - Upgraded rest of dependencies to latest versions. We're now using the latest version of everything.
 
-# Latest Release
+
 
 ## v0.2.0
 
