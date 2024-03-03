@@ -4,6 +4,14 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## v0.3.4
+
+### User Facing
+
+### Internal
+
+- CI pipeline improvements (version bump check)
+
 ## v0.3.3
 
 ### User Facing
