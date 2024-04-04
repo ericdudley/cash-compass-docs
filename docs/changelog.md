@@ -4,6 +4,14 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## 0.3.9
+
+### User Facing
+
+- Updated transaction voice input to visualize the levels of the voice input, and auto-submit the form when silence is detected.
+
+### Internal
+
 ## v0.3.4
 
 ### User Facing
