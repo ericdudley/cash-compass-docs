@@ -4,6 +4,14 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## 0.3.10
+
+### User Facing
+
+- Removed non-functional save/delete buttons for the balance updates list view on the account page.
+
+### Internal
+
 ## 0.3.9
 
 ### User Facing
