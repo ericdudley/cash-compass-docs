@@ -4,6 +4,18 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## 0.3.11
+
+### User Facing
+
+### Internal
+
+- The test suite must grow. Improved operations for executing the test suite and expanded coverage for the following areas.
+- Transaction Category create/update/delete
+- Transaction create/update/delete
+- Account create/update/delete
+- User preferences and usage tracking
+
 ## 0.3.10
 
 ### User Facing
