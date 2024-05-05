@@ -4,7 +4,15 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
-## 0.3.11
+# Latest Release
+
+## v0.4.0
+
+### User Facing
+
+- v0.4.0 release, release notes + email
+
+## v0.3.11
 
 ### User Facing
 
@@ -16,7 +24,7 @@ Welcome to the Changelog, if you're looking for the latest features available in
 - Account create/update/delete
 - User preferences and usage tracking
 
-## 0.3.10
+## v0.3.10
 
 ### User Facing
 
@@ -24,7 +32,7 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 ### Internal
 
-## 0.3.9
+## v0.3.9
 
 ### User Facing
 
@@ -63,8 +71,6 @@ Welcome to the Changelog, if you're looking for the latest features available in
 ### Internal
 
 - Report deployment on success to Honeybadger.
-
-# Latest Release
 
 ## v0.3.0-hotfix.1
 
