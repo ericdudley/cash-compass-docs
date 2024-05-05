@@ -6,7 +6,7 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Latest Release
 
-## v0.4.0-hotfix.1
+## v0.4.1-hotfix.1
 
 ### Internal
 
