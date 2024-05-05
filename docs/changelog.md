@@ -6,6 +6,12 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Latest Release
 
+## v0.4.0-hotfix.1
+
+### Internal
+
+- Fixed some dependency issues that was locking the deploy
+
 ## v0.4.0
 
 ### User Facing
