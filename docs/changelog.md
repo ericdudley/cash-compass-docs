@@ -4,6 +4,18 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## v0.4.3
+
+### Internal
+
+- Fixed an issue with CI checks that was blocking staging deploy.
+
+## v0.4.2
+
+### User Facing
+
+- Optimized the transaction form page to prevent hiccups when calculating recommended auto-complete values. You should now see more frequently updated recommendations as you type without any lag.
+
 # Latest Release
 
 ## v0.4.1-hotfix.1
