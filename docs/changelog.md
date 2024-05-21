@@ -4,6 +4,16 @@ Welcome to the Changelog, if you're looking for the latest features available in
 
 # Unreleased
 
+## v0.4.5
+
+- Add provisioned concurrency to production lambda function to reduce cold start times.
+
+## v0.4.4
+
+### Internal
+
+- Migrate scheduled function build to use ESBuild instead of Webpack.
+
 ## v0.4.3
 
 ### Internal
